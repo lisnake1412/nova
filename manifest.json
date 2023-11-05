@@ -1,19 +1,19 @@
 {
-  "short_name": "Linea",
-  "name": "Linea clone app",
+  "short_name": "Nova",
+  "name": "Star Nova",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "novaLogo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "novaLogo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "novaLogo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
